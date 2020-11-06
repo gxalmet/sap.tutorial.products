@@ -1,7 +1,7 @@
 sap.ui.define([
-  "tutorial/products/controller/BaseController"
+    "tutorial/products/controller/BaseController"
 ], function(Controller) {
-  "use strict";
+    "use strict";
 
-  return Controller.extend("tutorial.products.controller.MainView", {});
+    return Controller.extend("tutorial.products.controller.MainView", {});
 });
